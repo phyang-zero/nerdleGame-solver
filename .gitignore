@@ -1,0 +1,19 @@
+# 忽略可执行文件
+*.exe
+
+# 忽略 VSCode 配置目录（如果不想提交）
+.vscode/
+
+# 忽略编译生成的中间文件（根据你项目实际情况增删）
+*.obj
+*.o
+*.out
+*.dll
+
+# 忽略临时文件
+*.log
+*.tmp
+
+# 忽略系统文件（Windows）
+Thumbs.db
+Desktop.ini
